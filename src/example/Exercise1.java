@@ -33,7 +33,7 @@ public class Exercise1 {
 	public static void print(LambdaPrintPersona l, Persona p){
 		System.out.println(l.printPersona(p));
 	}
-	
+	//test
 	public static void printB(LambdaCheckPersona l, Persona p){
 		if(l.checkPersona(p)){
 			System.out.println(p);
