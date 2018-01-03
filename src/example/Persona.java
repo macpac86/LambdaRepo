@@ -5,6 +5,7 @@ public class Persona {
 	private String nome;
 	private String cognome;
 	private int anni;
+	private int anni2;
 		
 	public Persona(String nome, String cognome, int anni) {
 		super();
